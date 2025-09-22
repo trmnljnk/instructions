@@ -1,6 +1,3 @@
-Here’s an overview of how to use the tar utility in Linux/Unix.
-tar (short for tape archive) is used to create, extract, and manipulate archive files.
-
 ⸻
 
 Basic Syntax
